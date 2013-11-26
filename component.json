@@ -1,0 +1,17 @@
+{
+  "name": "main",
+  "repo": "test/main",
+  "description": "testing component builder Main",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+	"test/component1": "*",
+	"test/component2": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
